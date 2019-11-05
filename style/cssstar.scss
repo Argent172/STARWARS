@@ -1,0 +1,98 @@
+*{margin: 0;
+padding: 0;
+overflow: hidden;}
+
+@for $i from 1 through 200 {
+  $x : random(3);
+  @keyframes stars{
+	from{opacity: 0.8;box-shadow: 0 0 ($x*4+px) ($x*2+px) rgba(255, 255, 255, 0.5);}
+	to{opacity: 0.3;box-shadow: 0 0 ($x*8+px) ($x*3+px) rgba(242, 255, 0, 0.3);}
+}
+  .star#{$i} {
+    top: random(1080) + px;
+	left: random(1920) + px;
+
+	width: $x + px;
+	height: $x + px;
+	animation: stars (0.8 + random(20)*0.1 + s) (random(5) * 0.1 + s) infinite alternate;
+  }
+}
+@font-face {
+    font-family: Star; /* Имя шрифта */
+    src: url(Starjedi.ttf); /* Путь к файлу со шрифтом */
+    font-weight: normal;
+	font-style: normal;
+   }
+
+.star{
+	position: fixed;
+
+	transform: rotate(45deg);
+	background: white;
+	
+}
+
+.wrapper{
+	overflow: hidden;
+	width: 100vw;
+	height: 100vh;
+	background: #000;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.title div{
+	font-family: Star;
+	color: #ac8100;
+	font-size: 150px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.title2{
+	margin-top: -120px; 
+}
+.title{
+	margin-bottom: 100px;
+	transform: perspective(400px) rotateX(0deg) translateZ(500px);
+	animation: MoveTitle 10s;
+}
+
+
+
+
+.text{
+
+	overflow: hidden;
+	color: yellow;
+	position: absolute;
+	top: 15vh;
+	font-size: 75px;
+	width: 100vw;
+	letter-spacing: 5px;
+	line-height: 80px;
+	text-align: center;
+	transform: perspective(400px) rotateX(50deg) translate(0px, 800px) translateZ(-200px); opacity: 1;
+	animation: MoveMainText 60s 10s linear;
+	
+
+}
+
+@keyframes MoveTitle{
+	from{transform: perspective(400px) rotateX(0deg) translateZ(500px); opacity: 1;animation-timing-function: ease-in;}
+	20%{transform: perspective(400px) rotateX(0deg) translateZ(250px); opacity: 1;animation-timing-function: linear;}
+	90%{transform: perspective(400px) rotateX(0deg) translateZ(-1500px); opacity: 1;}
+	100%{transform: perspective(400px) rotateX(0deg) translateZ(-1500px); opacity:0;}
+}
+
+
+
+@keyframes MoveMainText{
+	from{transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px); opacity: 1;}
+	90%{ transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px); opacity: 1;}
+	100%{ transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px); opacity: 0;}
+}
+

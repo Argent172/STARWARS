@@ -1,0 +1,3770 @@
+@charset "UTF-8";
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\000031}}
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+@-webkit-keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star1 {
+  top: 74px;
+  left: 1511px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.8s 0.3s infinite alternate;
+          animation: stars 2.8s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star2 {
+  top: 851px;
+  left: 1229px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.7s 0.4s infinite alternate;
+          animation: stars 2.7s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star3 {
+  top: 253px;
+  left: 517px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.5s 0.1s infinite alternate;
+          animation: stars 2.5s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star4 {
+  top: 1036px;
+  left: 1403px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.9s 0.5s infinite alternate;
+          animation: stars 1.9s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star5 {
+  top: 209px;
+  left: 816px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.7s 0.2s infinite alternate;
+          animation: stars 1.7s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star6 {
+  top: 796px;
+  left: 1284px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.2s 0.1s infinite alternate;
+          animation: stars 2.2s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star7 {
+  top: 871px;
+  left: 463px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.5s 0.4s infinite alternate;
+          animation: stars 2.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star8 {
+  top: 545px;
+  left: 195px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.1s 0.3s infinite alternate;
+          animation: stars 1.1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star9 {
+  top: 229px;
+  left: 1636px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.7s 0.3s infinite alternate;
+          animation: stars 1.7s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star10 {
+  top: 862px;
+  left: 346px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.8s 0.1s infinite alternate;
+          animation: stars 2.8s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star11 {
+  top: 1013px;
+  left: 843px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.6s 0.2s infinite alternate;
+          animation: stars 2.6s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star12 {
+  top: 501px;
+  left: 1447px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.9s 0.3s infinite alternate;
+          animation: stars 1.9s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star13 {
+  top: 98px;
+  left: 602px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1s 0.3s infinite alternate;
+          animation: stars 1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star14 {
+  top: 320px;
+  left: 63px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.4s 0.5s infinite alternate;
+          animation: stars 2.4s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star15 {
+  top: 321px;
+  left: 409px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.8s 0.3s infinite alternate;
+          animation: stars 2.8s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star16 {
+  top: 353px;
+  left: 1697px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.3s 0.1s infinite alternate;
+          animation: stars 2.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star17 {
+  top: 627px;
+  left: 1406px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.6s 0.1s infinite alternate;
+          animation: stars 2.6s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star18 {
+  top: 309px;
+  left: 1267px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.1s 0.4s infinite alternate;
+          animation: stars 1.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star19 {
+  top: 957px;
+  left: 1532px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 0.9s 0.4s infinite alternate;
+          animation: stars 0.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star20 {
+  top: 781px;
+  left: 629px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1s 0.5s infinite alternate;
+          animation: stars 1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star21 {
+  top: 778px;
+  left: 1134px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.5s 0.4s infinite alternate;
+          animation: stars 2.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star22 {
+  top: 458px;
+  left: 1229px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.5s 0.3s infinite alternate;
+          animation: stars 1.5s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star23 {
+  top: 864px;
+  left: 350px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.4s 0.1s infinite alternate;
+          animation: stars 1.4s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star24 {
+  top: 59px;
+  left: 1496px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.2s infinite alternate;
+          animation: stars 1.2s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star25 {
+  top: 467px;
+  left: 162px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.2s infinite alternate;
+          animation: stars 2.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star26 {
+  top: 1046px;
+  left: 913px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.5s 0.5s infinite alternate;
+          animation: stars 2.5s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star27 {
+  top: 469px;
+  left: 1486px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1s 0.3s infinite alternate;
+          animation: stars 1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star28 {
+  top: 791px;
+  left: 1843px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 0.9s 0.5s infinite alternate;
+          animation: stars 0.9s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star29 {
+  top: 233px;
+  left: 377px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.6s 0.4s infinite alternate;
+          animation: stars 1.6s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star30 {
+  top: 361px;
+  left: 1359px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2s 0.2s infinite alternate;
+          animation: stars 2s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star31 {
+  top: 422px;
+  left: 717px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.8s 0.4s infinite alternate;
+          animation: stars 1.8s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star32 {
+  top: 233px;
+  left: 1037px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.1s 0.3s infinite alternate;
+          animation: stars 2.1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star33 {
+  top: 444px;
+  left: 558px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.7s 0.2s infinite alternate;
+          animation: stars 2.7s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star34 {
+  top: 366px;
+  left: 456px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1s 0.3s infinite alternate;
+          animation: stars 1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star35 {
+  top: 146px;
+  left: 822px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.8s 0.3s infinite alternate;
+          animation: stars 2.8s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star36 {
+  top: 225px;
+  left: 1476px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.5s 0.2s infinite alternate;
+          animation: stars 1.5s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star37 {
+  top: 578px;
+  left: 984px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.7s 0.1s infinite alternate;
+          animation: stars 1.7s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star38 {
+  top: 310px;
+  left: 840px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 0.9s 0.4s infinite alternate;
+          animation: stars 0.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star39 {
+  top: 343px;
+  left: 749px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.3s 0.1s infinite alternate;
+          animation: stars 1.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star40 {
+  top: 280px;
+  left: 1859px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.3s infinite alternate;
+          animation: stars 1.5s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star41 {
+  top: 563px;
+  left: 1343px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 0.9s 0.4s infinite alternate;
+          animation: stars 0.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star42 {
+  top: 507px;
+  left: 602px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.7s 0.5s infinite alternate;
+          animation: stars 1.7s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star43 {
+  top: 381px;
+  left: 216px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 0.9s 0.2s infinite alternate;
+          animation: stars 0.9s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star44 {
+  top: 518px;
+  left: 898px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1s 0.2s infinite alternate;
+          animation: stars 1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star45 {
+  top: 293px;
+  left: 1027px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 0.9s 0.4s infinite alternate;
+          animation: stars 0.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star46 {
+  top: 205px;
+  left: 1919px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.5s 0.2s infinite alternate;
+          animation: stars 1.5s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star47 {
+  top: 318px;
+  left: 1632px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.5s 0.3s infinite alternate;
+          animation: stars 2.5s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star48 {
+  top: 340px;
+  left: 1281px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.5s 0.1s infinite alternate;
+          animation: stars 1.5s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star49 {
+  top: 725px;
+  left: 1280px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.1s 0.4s infinite alternate;
+          animation: stars 1.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star50 {
+  top: 634px;
+  left: 351px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.4s 0.3s infinite alternate;
+          animation: stars 1.4s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star51 {
+  top: 747px;
+  left: 1893px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.7s 0.1s infinite alternate;
+          animation: stars 2.7s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star52 {
+  top: 635px;
+  left: 1688px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.3s 0.5s infinite alternate;
+          animation: stars 1.3s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star53 {
+  top: 123px;
+  left: 381px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.2s 0.5s infinite alternate;
+          animation: stars 2.2s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star54 {
+  top: 979px;
+  left: 296px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1s 0.5s infinite alternate;
+          animation: stars 1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star55 {
+  top: 1079px;
+  left: 370px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.8s 0.5s infinite alternate;
+          animation: stars 1.8s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star56 {
+  top: 402px;
+  left: 1273px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.9s 0.1s infinite alternate;
+          animation: stars 1.9s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star57 {
+  top: 219px;
+  left: 617px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2s 0.2s infinite alternate;
+          animation: stars 2s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star58 {
+  top: 288px;
+  left: 905px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.5s 0.4s infinite alternate;
+          animation: stars 2.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star59 {
+  top: 481px;
+  left: 1692px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2s 0.2s infinite alternate;
+          animation: stars 2s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star60 {
+  top: 215px;
+  left: 9px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.3s infinite alternate;
+          animation: stars 1.2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star61 {
+  top: 1059px;
+  left: 804px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.1s 0.4s infinite alternate;
+          animation: stars 1.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star62 {
+  top: 561px;
+  left: 550px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1s 0.5s infinite alternate;
+          animation: stars 1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star63 {
+  top: 545px;
+  left: 1487px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.1s 0.2s infinite alternate;
+          animation: stars 1.1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star64 {
+  top: 1004px;
+  left: 1529px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.1s infinite alternate;
+          animation: stars 2.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star65 {
+  top: 404px;
+  left: 42px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1s 0.2s infinite alternate;
+          animation: stars 1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star66 {
+  top: 883px;
+  left: 1099px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2s 0.3s infinite alternate;
+          animation: stars 2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star67 {
+  top: 374px;
+  left: 343px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.6s 0.1s infinite alternate;
+          animation: stars 1.6s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star68 {
+  top: 868px;
+  left: 1890px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.3s 0.4s infinite alternate;
+          animation: stars 2.3s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star69 {
+  top: 660px;
+  left: 1148px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.7s 0.5s infinite alternate;
+          animation: stars 2.7s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star70 {
+  top: 927px;
+  left: 220px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.3s 0.2s infinite alternate;
+          animation: stars 1.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star71 {
+  top: 917px;
+  left: 216px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.1s 0.2s infinite alternate;
+          animation: stars 2.1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star72 {
+  top: 616px;
+  left: 1744px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.4s infinite alternate;
+          animation: stars 1.2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star73 {
+  top: 190px;
+  left: 1104px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.3s 0.1s infinite alternate;
+          animation: stars 1.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star74 {
+  top: 1023px;
+  left: 1716px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.6s 0.5s infinite alternate;
+          animation: stars 2.6s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star75 {
+  top: 461px;
+  left: 1249px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.4s 0.1s infinite alternate;
+          animation: stars 2.4s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star76 {
+  top: 716px;
+  left: 582px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.4s 0.1s infinite alternate;
+          animation: stars 1.4s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star77 {
+  top: 433px;
+  left: 1191px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.5s infinite alternate;
+          animation: stars 1.4s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star78 {
+  top: 592px;
+  left: 696px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.1s 0.1s infinite alternate;
+          animation: stars 1.1s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star79 {
+  top: 469px;
+  left: 1548px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.4s 0.4s infinite alternate;
+          animation: stars 1.4s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star80 {
+  top: 361px;
+  left: 1352px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.4s infinite alternate;
+          animation: stars 2.3s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star81 {
+  top: 155px;
+  left: 1349px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.3s 0.4s infinite alternate;
+          animation: stars 2.3s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star82 {
+  top: 532px;
+  left: 1396px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.1s 0.5s infinite alternate;
+          animation: stars 2.1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star83 {
+  top: 1032px;
+  left: 1164px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.4s 0.2s infinite alternate;
+          animation: stars 1.4s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star84 {
+  top: 293px;
+  left: 1663px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1s 0.4s infinite alternate;
+          animation: stars 1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star85 {
+  top: 63px;
+  left: 1073px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.2s 0.2s infinite alternate;
+          animation: stars 1.2s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star86 {
+  top: 985px;
+  left: 943px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.1s infinite alternate;
+          animation: stars 1.5s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star87 {
+  top: 436px;
+  left: 1580px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.9s 0.2s infinite alternate;
+          animation: stars 1.9s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star88 {
+  top: 733px;
+  left: 9px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.2s 0.1s infinite alternate;
+          animation: stars 2.2s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star89 {
+  top: 12px;
+  left: 1892px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 0.9s 0.2s infinite alternate;
+          animation: stars 0.9s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star90 {
+  top: 26px;
+  left: 1539px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.1s infinite alternate;
+          animation: stars 1.5s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star91 {
+  top: 930px;
+  left: 1341px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.8s 0.2s infinite alternate;
+          animation: stars 1.8s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star92 {
+  top: 211px;
+  left: 401px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.9s 0.3s infinite alternate;
+          animation: stars 1.9s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star93 {
+  top: 655px;
+  left: 364px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.7s 0.5s infinite alternate;
+          animation: stars 1.7s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star94 {
+  top: 713px;
+  left: 1380px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.1s 0.4s infinite alternate;
+          animation: stars 1.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star95 {
+  top: 216px;
+  left: 743px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.7s 0.4s infinite alternate;
+          animation: stars 1.7s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star96 {
+  top: 683px;
+  left: 1803px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.4s 0.5s infinite alternate;
+          animation: stars 2.4s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star97 {
+  top: 285px;
+  left: 1436px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.2s 0.3s infinite alternate;
+          animation: stars 2.2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star98 {
+  top: 767px;
+  left: 473px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.9s 0.3s infinite alternate;
+          animation: stars 1.9s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star99 {
+  top: 891px;
+  left: 774px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.4s infinite alternate;
+          animation: stars 1.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star100 {
+  top: 697px;
+  left: 245px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.1s 0.5s infinite alternate;
+          animation: stars 1.1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star101 {
+  top: 927px;
+  left: 176px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2s 0.4s infinite alternate;
+          animation: stars 2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star102 {
+  top: 398px;
+  left: 639px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.3s 0.1s infinite alternate;
+          animation: stars 1.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star103 {
+  top: 515px;
+  left: 84px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.8s 0.2s infinite alternate;
+          animation: stars 2.8s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star104 {
+  top: 725px;
+  left: 329px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.1s 0.4s infinite alternate;
+          animation: stars 2.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star105 {
+  top: 227px;
+  left: 1047px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.4s infinite alternate;
+          animation: stars 1.4s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star106 {
+  top: 952px;
+  left: 1396px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.9s 0.3s infinite alternate;
+          animation: stars 1.9s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star107 {
+  top: 611px;
+  left: 1443px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 0.9s 0.4s infinite alternate;
+          animation: stars 0.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star108 {
+  top: 832px;
+  left: 1029px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.6s 0.1s infinite alternate;
+          animation: stars 1.6s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star109 {
+  top: 972px;
+  left: 1757px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.6s 0.2s infinite alternate;
+          animation: stars 1.6s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star110 {
+  top: 294px;
+  left: 239px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.1s 0.4s infinite alternate;
+          animation: stars 1.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star111 {
+  top: 739px;
+  left: 1867px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.5s infinite alternate;
+          animation: stars 1.4s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star112 {
+  top: 40px;
+  left: 1250px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.8s 0.3s infinite alternate;
+          animation: stars 2.8s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star113 {
+  top: 771px;
+  left: 1446px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.1s infinite alternate;
+          animation: stars 1.4s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star114 {
+  top: 30px;
+  left: 1658px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.6s 0.3s infinite alternate;
+          animation: stars 1.6s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star115 {
+  top: 894px;
+  left: 1801px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.8s 0.4s infinite alternate;
+          animation: stars 2.8s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star116 {
+  top: 381px;
+  left: 390px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.1s infinite alternate;
+          animation: stars 1.2s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star117 {
+  top: 921px;
+  left: 1110px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2s 0.3s infinite alternate;
+          animation: stars 2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star118 {
+  top: 694px;
+  left: 1172px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.8s 0.1s infinite alternate;
+          animation: stars 2.8s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star119 {
+  top: 464px;
+  left: 1022px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.6s 0.3s infinite alternate;
+          animation: stars 1.6s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star120 {
+  top: 356px;
+  left: 301px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.8s 0.4s infinite alternate;
+          animation: stars 2.8s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star121 {
+  top: 871px;
+  left: 372px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.1s infinite alternate;
+          animation: stars 1.4s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star122 {
+  top: 735px;
+  left: 448px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.5s 0.4s infinite alternate;
+          animation: stars 2.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star123 {
+  top: 642px;
+  left: 159px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.3s 0.1s infinite alternate;
+          animation: stars 1.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star124 {
+  top: 511px;
+  left: 1348px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.1s 0.1s infinite alternate;
+          animation: stars 1.1s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star125 {
+  top: 473px;
+  left: 1426px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.5s infinite alternate;
+          animation: stars 1.2s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star126 {
+  top: 860px;
+  left: 524px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.1s 0.1s infinite alternate;
+          animation: stars 2.1s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star127 {
+  top: 616px;
+  left: 787px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.3s 0.2s infinite alternate;
+          animation: stars 2.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star128 {
+  top: 777px;
+  left: 1722px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.5s 0.3s infinite alternate;
+          animation: stars 2.5s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star129 {
+  top: 901px;
+  left: 1334px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.5s 0.4s infinite alternate;
+          animation: stars 2.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star130 {
+  top: 88px;
+  left: 1792px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.6s 0.5s infinite alternate;
+          animation: stars 2.6s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star131 {
+  top: 22px;
+  left: 851px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.3s infinite alternate;
+          animation: stars 2.3s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star132 {
+  top: 311px;
+  left: 1285px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.5s 0.3s infinite alternate;
+          animation: stars 1.5s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star133 {
+  top: 365px;
+  left: 543px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 0.9s 0.2s infinite alternate;
+          animation: stars 0.9s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star134 {
+  top: 66px;
+  left: 410px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.3s infinite alternate;
+          animation: stars 2.3s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star135 {
+  top: 799px;
+  left: 89px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.5s infinite alternate;
+          animation: stars 1.4s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star136 {
+  top: 700px;
+  left: 1272px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.3s infinite alternate;
+          animation: stars 1.5s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star137 {
+  top: 192px;
+  left: 60px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.6s 0.1s infinite alternate;
+          animation: stars 2.6s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star138 {
+  top: 751px;
+  left: 514px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.8s 0.5s infinite alternate;
+          animation: stars 1.8s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star139 {
+  top: 162px;
+  left: 867px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1s 0.1s infinite alternate;
+          animation: stars 1s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star140 {
+  top: 51px;
+  left: 1101px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.7s 0.5s infinite alternate;
+          animation: stars 2.7s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star141 {
+  top: 993px;
+  left: 335px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.7s 0.2s infinite alternate;
+          animation: stars 2.7s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star142 {
+  top: 761px;
+  left: 1816px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.2s infinite alternate;
+          animation: stars 2.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star143 {
+  top: 310px;
+  left: 831px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.3s 0.2s infinite alternate;
+          animation: stars 1.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star144 {
+  top: 145px;
+  left: 77px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.1s 0.4s infinite alternate;
+          animation: stars 1.1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star145 {
+  top: 25px;
+  left: 110px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.1s 0.2s infinite alternate;
+          animation: stars 2.1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star146 {
+  top: 17px;
+  left: 815px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.2s 0.1s infinite alternate;
+          animation: stars 2.2s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star147 {
+  top: 423px;
+  left: 421px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.4s 0.4s infinite alternate;
+          animation: stars 2.4s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star148 {
+  top: 166px;
+  left: 1589px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.6s 0.3s infinite alternate;
+          animation: stars 1.6s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star149 {
+  top: 509px;
+  left: 267px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2s 0.5s infinite alternate;
+          animation: stars 2s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star150 {
+  top: 275px;
+  left: 1115px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.1s 0.5s infinite alternate;
+          animation: stars 1.1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star151 {
+  top: 193px;
+  left: 1744px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.1s 0.2s infinite alternate;
+          animation: stars 2.1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star152 {
+  top: 149px;
+  left: 219px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.2s 0.5s infinite alternate;
+          animation: stars 1.2s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star153 {
+  top: 166px;
+  left: 1031px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.3s 0.3s infinite alternate;
+          animation: stars 1.3s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star154 {
+  top: 587px;
+  left: 1102px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.3s 0.2s infinite alternate;
+          animation: stars 2.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star155 {
+  top: 193px;
+  left: 1487px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.9s 0.4s infinite alternate;
+          animation: stars 1.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star156 {
+  top: 87px;
+  left: 914px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.3s 0.3s infinite alternate;
+          animation: stars 1.3s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star157 {
+  top: 574px;
+  left: 421px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.1s 0.5s infinite alternate;
+          animation: stars 1.1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star158 {
+  top: 503px;
+  left: 1716px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.7s 0.1s infinite alternate;
+          animation: stars 1.7s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star159 {
+  top: 476px;
+  left: 667px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.1s infinite alternate;
+          animation: stars 2.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star160 {
+  top: 680px;
+  left: 137px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.2s 0.3s infinite alternate;
+          animation: stars 2.2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star161 {
+  top: 851px;
+  left: 330px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.1s infinite alternate;
+          animation: stars 2.3s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star162 {
+  top: 107px;
+  left: 39px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 0.9s 0.2s infinite alternate;
+          animation: stars 0.9s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star163 {
+  top: 558px;
+  left: 825px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 2.3s 0.2s infinite alternate;
+          animation: stars 2.3s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star164 {
+  top: 755px;
+  left: 1701px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.1s 0.2s infinite alternate;
+          animation: stars 2.1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star165 {
+  top: 1031px;
+  left: 1607px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.4s 0.1s infinite alternate;
+          animation: stars 1.4s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star166 {
+  top: 153px;
+  left: 951px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.2s 0.4s infinite alternate;
+          animation: stars 2.2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star167 {
+  top: 977px;
+  left: 1476px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.8s 0.3s infinite alternate;
+          animation: stars 1.8s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star168 {
+  top: 712px;
+  left: 143px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.4s 0.4s infinite alternate;
+          animation: stars 1.4s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star169 {
+  top: 964px;
+  left: 1152px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.6s 0.3s infinite alternate;
+          animation: stars 2.6s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star170 {
+  top: 205px;
+  left: 175px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.4s 0.2s infinite alternate;
+          animation: stars 2.4s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star171 {
+  top: 874px;
+  left: 1669px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.5s infinite alternate;
+          animation: stars 1.2s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star172 {
+  top: 404px;
+  left: 191px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.1s 0.3s infinite alternate;
+          animation: stars 1.1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star173 {
+  top: 279px;
+  left: 1236px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1s 0.5s infinite alternate;
+          animation: stars 1s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star174 {
+  top: 305px;
+  left: 645px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.6s 0.2s infinite alternate;
+          animation: stars 2.6s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star175 {
+  top: 711px;
+  left: 23px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.2s 0.4s infinite alternate;
+          animation: stars 1.2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star176 {
+  top: 447px;
+  left: 1863px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.5s infinite alternate;
+          animation: stars 1.5s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star177 {
+  top: 79px;
+  left: 822px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.4s 0.4s infinite alternate;
+          animation: stars 2.4s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star178 {
+  top: 268px;
+  left: 260px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.7s 0.3s infinite alternate;
+          animation: stars 1.7s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star179 {
+  top: 827px;
+  left: 82px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2s 0.3s infinite alternate;
+          animation: stars 2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star180 {
+  top: 255px;
+  left: 1685px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.4s 0.3s infinite alternate;
+          animation: stars 1.4s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star181 {
+  top: 570px;
+  left: 575px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.2s 0.1s infinite alternate;
+          animation: stars 2.2s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star182 {
+  top: 1017px;
+  left: 396px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.2s 0.4s infinite alternate;
+          animation: stars 2.2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star183 {
+  top: 459px;
+  left: 266px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 0.9s 0.4s infinite alternate;
+          animation: stars 0.9s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star184 {
+  top: 654px;
+  left: 1635px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.4s 0.4s infinite alternate;
+          animation: stars 1.4s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star185 {
+  top: 655px;
+  left: 1608px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.2s 0.3s infinite alternate;
+          animation: stars 1.2s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star186 {
+  top: 448px;
+  left: 1805px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1s 0.4s infinite alternate;
+          animation: stars 1s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star187 {
+  top: 1041px;
+  left: 110px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.7s 0.1s infinite alternate;
+          animation: stars 1.7s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star188 {
+  top: 84px;
+  left: 1113px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 2.1s 0.3s infinite alternate;
+          animation: stars 2.1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star189 {
+  top: 534px;
+  left: 1619px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.7s 0.5s infinite alternate;
+          animation: stars 1.7s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star190 {
+  top: 1074px;
+  left: 1418px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1s 0.3s infinite alternate;
+          animation: stars 1s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star191 {
+  top: 319px;
+  left: 535px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.3s 0.3s infinite alternate;
+          animation: stars 2.3s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star192 {
+  top: 35px;
+  left: 1462px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1s 0.2s infinite alternate;
+          animation: stars 1s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star193 {
+  top: 911px;
+  left: 1157px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 0.9s 0.3s infinite alternate;
+          animation: stars 0.9s 0.3s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star194 {
+  top: 844px;
+  left: 1384px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2.8s 0.5s infinite alternate;
+          animation: stars 2.8s 0.5s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star195 {
+  top: 585px;
+  left: 1594px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2s 0.4s infinite alternate;
+          animation: stars 2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star196 {
+  top: 254px;
+  left: 516px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 1.8s 0.2s infinite alternate;
+          animation: stars 1.8s 0.2s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star197 {
+  top: 58px;
+  left: 1395px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.8s 0.1s infinite alternate;
+          animation: stars 1.8s 0.1s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 8px 4px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 16px 6px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star198 {
+  top: 882px;
+  left: 142px;
+  width: 2px;
+  height: 2px;
+  -webkit-animation: stars 1.5s 0.4s infinite alternate;
+          animation: stars 1.5s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 4px 2px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 8px 3px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star199 {
+  top: 491px;
+  left: 46px;
+  width: 1px;
+  height: 1px;
+  -webkit-animation: stars 2s 0.4s infinite alternate;
+          animation: stars 2s 0.4s infinite alternate; }
+
+@keyframes stars {
+  from {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 12px 6px rgba(255, 255, 255, 0.5); }
+  to {
+    opacity: 0.3;
+    -webkit-box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3);
+            box-shadow: 0 0 24px 9px rgba(242, 255, 0, 0.3); } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000311}}
+.star200 {
+  top: 262px;
+  left: 1098px;
+  width: 3px;
+  height: 3px;
+  -webkit-animation: stars 1.6s 0.3s infinite alternate;
+          animation: stars 1.6s 0.3s infinite alternate; }
+
+@font-face {
+  font-family: Star;
+  /* Имя шрифта */
+  src: url(Starjedi.ttf);
+  /* Путь к файлу со шрифтом */
+  font-weight: normal;
+  font-style: normal; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000327}}
+.star {
+  position: fixed;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  background: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000335}}
+.wrapper {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000346}}
+.title div {
+  font-family: Star;
+  color: #ac8100;
+  font-size: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000355}}
+.title2 {
+  margin-top: -120px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000358}}
+.title {
+  margin-bottom: 100px;
+  -webkit-transform: perspective(400px) rotateX(0deg) translateZ(500px);
+          transform: perspective(400px) rotateX(0deg) translateZ(500px);
+  -webkit-animation: MoveTitle 10s;
+          animation: MoveTitle 10s; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/argen\/Desktop\/star\/style\/cssstar\.scss}line{font-family:\0000367}}
+.text {
+  overflow: hidden;
+  color: yellow;
+  position: absolute;
+  top: 15vh;
+  font-size: 75px;
+  width: 100vw;
+  letter-spacing: 5px;
+  line-height: 80px;
+  text-align: center;
+  -webkit-transform: perspective(400px) rotateX(50deg) translate(0px, 800px) translateZ(-200px);
+          transform: perspective(400px) rotateX(50deg) translate(0px, 800px) translateZ(-200px);
+  opacity: 1;
+  -webkit-animation: MoveMainText 60s 10s linear;
+          animation: MoveMainText 60s 10s linear; }
+
+@-webkit-keyframes MoveTitle {
+  from {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(500px);
+            transform: perspective(400px) rotateX(0deg) translateZ(500px);
+    opacity: 1;
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in; }
+  20% {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(250px);
+            transform: perspective(400px) rotateX(0deg) translateZ(250px);
+    opacity: 1;
+    -webkit-animation-timing-function: linear;
+            animation-timing-function: linear; }
+  90% {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+            transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+    opacity: 1; }
+  100% {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+            transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+    opacity: 0; } }
+
+@keyframes MoveTitle {
+  from {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(500px);
+            transform: perspective(400px) rotateX(0deg) translateZ(500px);
+    opacity: 1;
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in; }
+  20% {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(250px);
+            transform: perspective(400px) rotateX(0deg) translateZ(250px);
+    opacity: 1;
+    -webkit-animation-timing-function: linear;
+            animation-timing-function: linear; }
+  90% {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+            transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+    opacity: 1; }
+  100% {
+    -webkit-transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+            transform: perspective(400px) rotateX(0deg) translateZ(-1500px);
+    opacity: 0; } }
+@-webkit-keyframes MoveMainText {
+  from {
+    -webkit-transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px);
+            transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px);
+    opacity: 1; }
+  90% {
+    -webkit-transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+            transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+    opacity: 1; }
+  100% {
+    -webkit-transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+            transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+    opacity: 0; } }
+@keyframes MoveMainText {
+  from {
+    -webkit-transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px);
+            transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px);
+    opacity: 1; }
+  90% {
+    -webkit-transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+            transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+    opacity: 1; }
+  100% {
+    -webkit-transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+            transform: perspective(400px) rotateX(45deg) translate(0px, -2500px) translateZ(-600px);
+    opacity: 0; } }
+
+/*# sourceMappingURL=cssstar.css.map */
