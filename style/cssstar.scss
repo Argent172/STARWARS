@@ -58,7 +58,7 @@ overflow: hidden;}
 .title{
 	margin-bottom: 100px;
 	transform: perspective(400px) rotateX(0deg) translateZ(500px);
-	animation: MoveTitle 10s;
+	animation: MoveTitle 12s;
 }
 
 
@@ -76,7 +76,7 @@ overflow: hidden;}
 	line-height: 80px;
 	text-align: center;
 	transform: perspective(400px) rotateX(50deg) translate(0px, 800px) translateZ(-200px); opacity: 1;
-	animation: MoveMainText 60s 10s linear;
+	animation: MoveMainText 60s 12s linear;
 	
 
 }
