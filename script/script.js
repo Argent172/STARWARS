@@ -10,8 +10,4 @@ function start() {
         audio.play();
     }, 000);
 }
-
-
-// document.addEventListener("DOMContentLoaded", function() {
     btn.addEventListener('click', start);
-// });

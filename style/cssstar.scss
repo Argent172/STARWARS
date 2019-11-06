@@ -101,22 +101,22 @@ align-items: center;
 
 
 
-// .text{
+.text{
 
-// 	overflow: hidden;
-// 	color: yellow;
-// 	position: absolute;
-// 	top: 15vh;
-// 	font-size: 75px;
-// 	width: 100vw;
-// 	letter-spacing: 5px;
-// 	line-height: 80px;
-// 	text-align: center;
-// 	transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px); opacity: 1;
-// 	animation: MoveMainText 60s 12s linear;
+	overflow: hidden;
+	color: yellow;
+	position: absolute;
+	top: 15vh;
+	font-size: 75px;
+	width: 100vw;
+	letter-spacing: 5px;
+	line-height: 80px;
+	text-align: center;
+	transform: perspective(400px) rotateX(45deg) translate(0px, 800px) translateZ(-200px); opacity: 1;
+	animation: MoveMainText 60s 12s linear;
 	
 
-// }
+}
 
 @keyframes MoveTitle{
 	from{transform: perspective(400px) rotateX(0deg) translateZ(500px); opacity: 1;animation-timing-function: ease-in;}
