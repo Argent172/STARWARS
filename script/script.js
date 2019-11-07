@@ -8,6 +8,6 @@ function start() {
     setTimeout(function() {
         var audio = new Audio('title1.mp3');
         audio.play();
-    }, 000);
+    }, 2400);
 }
     btn.addEventListener('click', start);
